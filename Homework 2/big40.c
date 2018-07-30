@@ -1,4 +1,4 @@
-//“I Greg Eugene (2663504) afﬁrm that this program is entirely my own work and that I have neither
+//“I Greg Eugene afﬁrm that this program is entirely my own work and that I have neither
 //developed my code together with any another person, nor copied any code from any other person,
 //nor permitted my code to be copied or otherwise used by any other person, nor have I copied,
 //modiﬁed, or otherwise used program code that I have found in any external source,
